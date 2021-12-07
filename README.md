@@ -1,2 +1,2 @@
 # fernandezacademysports
-Fernandez Academy Sports
+Fernandez Academy Sports is a family-owned sports business.
